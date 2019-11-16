@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polygon", "polygon\polygon.csproj", "{B2237B82-AEE1-426F-88CC-197493B1A2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2237B82-AEE1-426F-88CC-197493B1A2F8}.Debug|x86.ActiveCfg = Debug|x86
+		{B2237B82-AEE1-426F-88CC-197493B1A2F8}.Debug|x86.Build.0 = Debug|x86
+		{B2237B82-AEE1-426F-88CC-197493B1A2F8}.Release|x86.ActiveCfg = Release|x86
+		{B2237B82-AEE1-426F-88CC-197493B1A2F8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.StandardHeader = $2
+	EndGlobalSection
+EndGlobal

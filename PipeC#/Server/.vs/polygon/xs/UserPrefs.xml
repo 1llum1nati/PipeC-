@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B2237B82-AEE1-426F-88CC-197493B1A2F8}|Default">
+  <MonoDevelop.Ide.ItemProperties.polygon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="polygon/Program.cs">
+    <Files>
+      <File FileName="polygon/Program.cs" Line="79" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="polygon" expanded="True">
+            <Node name="polygon" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="/unsafe" Name="/unsafe">
+      <Items>
+        <StartupItem ItemId="{B2237B82-AEE1-426F-88CC-197493B1A2F8}" ItemName="polygon" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

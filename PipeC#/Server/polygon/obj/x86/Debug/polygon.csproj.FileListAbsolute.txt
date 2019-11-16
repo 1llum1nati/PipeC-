@@ -1,0 +1,5 @@
+/home/r3pl1c4nt/Projects/polygon/polygon/bin/Debug/polygon.exe
+/home/r3pl1c4nt/Projects/polygon/polygon/bin/Debug/polygon.pdb
+/home/r3pl1c4nt/Projects/polygon/polygon/obj/x86/Debug/polygon.exe
+/home/r3pl1c4nt/Projects/polygon/polygon/obj/x86/Debug/polygon.pdb
+/home/r3pl1c4nt/Projects/polygon/polygon/obj/x86/Debug/polygon.csprojAssemblyReference.cache
